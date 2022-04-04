@@ -1,0 +1,20 @@
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+D:\Games\Visual Studio\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojAssemblyReference.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
